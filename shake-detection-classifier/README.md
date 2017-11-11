@@ -2,7 +2,7 @@
 
 ### Problem statement
 
-**Summary**: Building a classifier for detecting Shake gestures using data from phone sensors.
+**Summary**: Building a classifier for detecting _shake_ gestures using data from phone sensors.
 
 The goal is to create a classifier that can be implemented easily on streaming sensor data to detect Shake gesture.
 
