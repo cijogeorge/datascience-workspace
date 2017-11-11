@@ -5,8 +5,8 @@ Each directory is an independent work which stands on its own, and the README fi
 
 ### Projects: 
 
-* **shake-detection:**
+* **shake-detection**
   * Building a classifier for detecting _shake_ gestures using data from phone sensors.
-* **titanic:**
+* **titanic**
   * Predicting survival on the Titanic (using dataset from Kaggle). 
 
