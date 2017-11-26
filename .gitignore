@@ -1,7 +1,0 @@
-.DS_Store
-.ipynb_*
-.ipynb_checkpoints/
-*.pyc
-*.p
-*.pkl
-*.Rhistory 
