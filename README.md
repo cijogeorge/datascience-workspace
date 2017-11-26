@@ -5,8 +5,9 @@ Each directory is an independent work which stands on its own, and the README fi
 
 ### Projects: 
 
-* **shake-detection-classifier**
+* **[shake-detection-classifier](./shake-detection-classifier)**
   * Building a classifier for detecting _shake_ gestures using data from phone sensors.
-* **titanic-survival-modeling**
+* **[titanic-survival-modeling](./titanic-survival-modeling)**
   * Predicting survival on the Titanic (using dataset from Kaggle). 
-
+* **[linear-regression-gradient-descent](./linear-regression-gradient-descent)**
+  * Linear regression using Gradient Descent algorithm on Mean Squared Error.
